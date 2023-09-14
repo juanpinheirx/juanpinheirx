@@ -4,19 +4,19 @@
 
 - 🌱 I’m currently learning **Backend basics**
 
-- 👯 I’m looking to collaborate on [React Projects](https://github.com/juanpinheirx/context-api-counter)
+- 👯 I’m looking to collaborate on Front-end, DevOps, Back-end (software architecture specifically)
 
 - 👨‍💻 All of my projects are available at [https://github.com/juanpinheirx](https://github.com/juanpinheirx)
 
 - 📝 I regularly talk about things on [https://www.youtube.com/@juanpinheirx/featured](https://www.youtube.com/@juanpinheirx/featured)
 
-- 💬 Ask me about **React.js, Vite, education and philosophy.**
+- 💬 Ask me about **Web Development, kindness, selfless love, education and philosophy.**
 
 - 📫 How to reach me **jroliveirapinheiro@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/juanpinheirx/](https://www.linkedin.com/in/juanpinheirx/)
 
-- ⚡ Fun fact **I love teaching more than I love web deving.**
+- ⚡ Fun fact **I love teaching and inspiring more than I love web deving. Although I really love to talk about WEB DEV**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
