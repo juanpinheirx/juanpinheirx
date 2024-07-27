@@ -2,21 +2,21 @@
 <h3 align="center">A loving educator, husband and web developer.</h3>
 <img align='right' alt='coding' width='400' src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFvbXJhd2t5cGs4a3FvbGFmb3drMjVxMjh3cWF3bmc4NDdna2xjOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif' />
 
-- 🌱 I’m currently learning **Backend basics**
+- 🌱 **Fullstack Web Developer** with solid background experience.
 
-- 👯 I’m looking to collaborate on Front-end, DevOps, Back-end (software architecture specifically)
+- 👯 I’m looking to collaborate on Front-end, DevOps, Back-end (software architecture specifically).
 
 - 👨‍💻 All of my projects are available at [https://github.com/juanpinheirx](https://github.com/juanpinheirx)
 
-- 📝 I regularly talk about things on [https://www.youtube.com/@juanpinheirx/featured](https://www.youtube.com/@juanpinheirx/featured)
+- 📝 Currently attending Google's Professional UX Design course.
 
-- 💬 Ask me about **Web Development, kindness, selfless love, education and philosophy.**
+- 💬 Ask me about **Web Development, kindness, Formula 1 and food.**
 
-- 📫 How to reach me **jroliveirapinheiro@gmail.com**
+- 📫 How to reach me: **jroliveirapinheiro@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/juanpinheirx/](https://www.linkedin.com/in/juanpinheirx/)
+- 📄 My LinkedIn [https://www.linkedin.com/in/juanpinheirx/](https://www.linkedin.com/in/juanpinheirx/)
 
-- ⚡ Fun fact **I love teaching and inspiring more than I love web deving. Although I really love to talk about WEB DEV**
+- ⚡ Fun fact: **I have a heart aneurysm -- which often makes people feel concerned. But it's just something I got during my birth.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
